@@ -16,17 +16,17 @@ body {
   text-align: center;
 }
 h1 {
-  font-size: 28px;
+  font-size: 50px;
   color: #333;
   margin-bottom: 20px;
 }
 #progress {
-  font-size: 18px;
+  font-size: 25px;
   color: #666;
   margin-bottom: 20px;
 }
 #question {
-  font-size: 50px;
+  font-size: 35px;
   margin: 20px 0;
   color: #333;
 }
@@ -36,7 +36,7 @@ h1 {
   padding: 15px 20px;
   background-color: #007bff;
   color: white;
-  font-size: 18px;
+  font-size: 45px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -53,7 +53,7 @@ h1 {
 }
 #start-btn {
   padding: 15px 30px;
-  font-size: 18px;
+  font-size: 25px;
   background-color: #007bff;
   color: white;
   border: none;
